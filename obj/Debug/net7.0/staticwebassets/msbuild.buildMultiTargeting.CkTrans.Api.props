@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CkTrans.Api.props" />
+</Project>
